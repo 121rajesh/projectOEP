@@ -1,0 +1,8 @@
+D:\Project\FinalProject\MyUnitTestProject\bin\Debug\MyUnitTestProject.dll
+D:\Project\FinalProject\MyUnitTestProject\bin\Debug\MyUnitTestProject.pdb
+D:\Project\FinalProject\MyUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Project\FinalProject\MyUnitTestProject\bin\Debug\MySecurityLib.dll
+D:\Project\FinalProject\MyUnitTestProject\bin\Debug\MySecurityLib.pdb
+D:\Project\FinalProject\MyUnitTestProject\obj\Debug\MyUnitTestProject.csprojResolveAssemblyReference.cache
+D:\Project\FinalProject\MyUnitTestProject\obj\Debug\MyUnitTestProject.dll
+D:\Project\FinalProject\MyUnitTestProject\obj\Debug\MyUnitTestProject.pdb

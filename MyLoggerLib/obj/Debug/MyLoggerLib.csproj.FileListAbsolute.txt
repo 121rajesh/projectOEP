@@ -1,0 +1,5 @@
+D:\Project\FinalProject\MyLoggerLib\bin\Debug\MyLoggerLib.dll
+D:\Project\FinalProject\MyLoggerLib\bin\Debug\MyLoggerLib.pdb
+D:\Project\FinalProject\MyLoggerLib\obj\Debug\MyLoggerLib.dll
+D:\Project\FinalProject\MyLoggerLib\obj\Debug\MyLoggerLib.pdb
+D:\Project\FinalProject\MyLoggerLib\obj\Debug\MyLoggerLib.csprojResolveAssemblyReference.cache

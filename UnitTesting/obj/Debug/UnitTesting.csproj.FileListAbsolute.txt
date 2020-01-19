@@ -1,0 +1,8 @@
+D:\Project\FinalProject\UnitTesting\bin\Debug\UnitTesting.exe.config
+D:\Project\FinalProject\UnitTesting\bin\Debug\UnitTesting.exe
+D:\Project\FinalProject\UnitTesting\bin\Debug\UnitTesting.pdb
+D:\Project\FinalProject\UnitTesting\bin\Debug\MyLoggerLib.dll
+D:\Project\FinalProject\UnitTesting\bin\Debug\MyLoggerLib.pdb
+D:\Project\FinalProject\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+D:\Project\FinalProject\UnitTesting\obj\Debug\UnitTesting.exe
+D:\Project\FinalProject\UnitTesting\obj\Debug\UnitTesting.pdb
